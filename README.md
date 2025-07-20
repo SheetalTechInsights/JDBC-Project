@@ -1,42 +1,46 @@
-# JDBC-Project
-A console-based Hotel Management System built using Java and JDBC. This project simulates real-world hotel operations such as booking rooms, managing customer details, checking availability, and generating bills. It connects to a MySQL database using JDBC API for data persistence and retrieval.
+# 🏨 Hotel Management System – JDBC Project
 
-🔧 Features:
-Room Booking and Cancellation
+A **console-based Hotel Management System** developed using **Java** and **JDBC**. This project simulates real-world hotel operations such as room booking, customer management, check-in/check-out, and bill generation. It connects to a **MySQL** database using the **JDBC API** for persistent data storage and retrieval.
 
-Customer Check-in / Check-out
+---
 
-View Room Availability
+## 🔧 Features
 
-Bill Generation
+- Room Booking and Cancellation  
+- Customer Check-in / Check-out  
+- View Room Availability  
+- Bill Generation  
+- Admin Login / Basic Authentication  
+- Full CRUD operations using JDBC  
 
-Admin Login / Basic Authentication
+---
 
-Database operations using JDBC (CRUD)
+## 🛠️ Tech Stack
 
+- Java (JDK 8 or above)  
+- MySQL Database  
+- JDBC (Java Database Connectivity)  
+- Console-based User Interface  
 
-🛠️ Tech Stack:
-Java (JDK 8 or above)
+---
 
-MySQL Database
-
-JDBC (Java Database Connectivity)
-
-Console-based interface
-
-📂 Folder Structure:
+## 📁 Project Structure
 
 HotelManagementSystem/
 ├── src/
-│   ├── Booking.java
-│   ├── Customer.java
-│   ├── Room.java
-│   └── HotelManagement.java
-├── hotel.sql       (Database schema)
-├── README.md
+│ ├── Booking.java
+│ ├── Customer.java
+│ ├── Room.java
+│ └── HotelManagement.java
+├── hotel.sql # Database schema
+├── README.md # Project overview
 
 
-📌 Author:
-Sheetal Patidar
-Bachelor of Engineering – CSE (AI & ML)
-GitHub: SheetalTechInsights
+
+----
+
+## 🧑‍💻 Author
+
+**Sheetal Patidar**  
+_Bachelor of Engineering – Computer Science (AI & ML)_  
+🔗 [GitHub – SheetalTechInsights](https://github.com/SheetalTechInsights)
